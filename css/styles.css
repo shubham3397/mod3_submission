@@ -1,0 +1,39 @@
+body{
+	background-color: #fff;
+	color:#000;
+}
+
+#header-nav{
+	background-color: darkgray;
+	height: 100px;
+}
+
+.row div{
+	background-color: darkgray;
+	margin: 2px 5px 5px;
+}
+
+h4{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.navbar-toggle{
+	margin-top: 50px;
+}
+
+.navbar-toggle:hover{
+	box-shadow: 1px 1px 1px #222;
+}
+
+li span{
+	font-size: 1em;
+}
+li hr{
+	width:100%;
+}
+
+#main-content>div{
+	position: relative;
+	top: 150px;
+}
