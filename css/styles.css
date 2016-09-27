@@ -5,7 +5,8 @@ body{
 
 #header-nav{
 	background-color: darkgray;
-	height: 100px;
+
+	max-height: 270px;
 }
 
 .row div{
@@ -35,5 +36,5 @@ li hr{
 
 #main-content>div{
 	position: relative;
-	top: 10px;
+	top: 20px;
 }
